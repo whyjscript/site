@@ -1,0 +1,83 @@
+.text1 {
+    position: absolute;
+    width: 644px;
+    height: 84px;
+    left: 70px;
+    top: 70px;
+    font-family: SF UI Display;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 60px;
+    line-height: 101px;
+    -webkit-touch-callout: none; 
+    -webkit-user-select: none;  
+    -khtml-user-select: none;    
+    -moz-user-select: none;     
+    -ms-user-select: none;       
+    user-select: none;  
+}
+
+.text2 {
+    position: absolute;
+    width: 673px;
+    height: 76px;
+    left: 70px;
+    top: 155px;
+    font-family: SF UI Display;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 50px;
+    line-height: 76px;
+    color: #000000;
+    -webkit-touch-callout: none; 
+    -webkit-user-select: none;  
+    -khtml-user-select: none;    
+    -moz-user-select: none;     
+    -ms-user-select: none;       
+    user-select: none;  
+}
+
+.text3 {
+    position: absolute;
+    width: 269px;
+    height: 49px;
+    left: 70px;
+    top: 235px;
+    font-family: SF UI Display;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 26px;
+    line-height: 43px;
+    color: #000000;
+    -webkit-touch-callout: none; 
+    -webkit-user-select: none;  
+    -khtml-user-select: none;    
+    -moz-user-select: none;     
+    -ms-user-select: none;       
+    user-select: none;  
+}
+
+.jstext {
+    position: absolute;
+    left: 92%;
+    top: 1%;
+    font-family: SF UI Display;
+    font-style: normal;
+    font-weight: 800;
+    font-size: 20px;
+    line-height: 50px;
+    color:  #E5E5E5;
+    filter: blur(30px);
+    transition-duration: 0.3s;
+    -webkit-touch-callout: none; 
+    -webkit-user-select: none;  
+    -khtml-user-select: none;    
+    -moz-user-select: none;     
+    -ms-user-select: none;       
+    user-select: none;  
+}
+
+.jstext:hover {
+    filter: none;
+    color: black
+}

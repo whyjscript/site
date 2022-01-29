@@ -1,0 +1,74 @@
+* {
+    background: white;
+    margin: 0;
+}
+
+.title {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+
+.text {
+ width: 725px;
+ height: 203px;
+ font-size: 40px ;
+ font-style: normal;
+ font-weight: bold;
+ z-index: 20;
+ background-color: none;
+ -webkit-touch-callout: none; 
+    -webkit-user-select: none;  
+    -khtml-user-select: none;    
+    -moz-user-select: none;     
+    -ms-user-select: none;       
+    user-select: none;  
+}
+
+.jstext {
+    position: absolute;
+    left: 3%;
+    top: 3%;
+    font-family: SF UI Display;
+    font-style: normal;
+    font-weight: 800;
+    font-size: 35px;
+    line-height: 50px;
+    color:  #E5E5E5;
+    filter: blur(30px);
+    transition-duration: 0.3s;
+    -webkit-touch-callout: none; 
+    -webkit-user-select: none;  
+    -khtml-user-select: none;    
+    -moz-user-select: none;     
+    -ms-user-select: none;       
+    user-select: none;  
+}
+
+ .jstext:hover {
+    filter: none;
+    color: black
+}
+
+.text {
+    margin-top: 20%;
+    font-family: SF UI Display;
+    font-style: normal;
+    -webkit-touch-callout: none; 
+    -webkit-user-select: none;  
+    -khtml-user-select: none;    
+    -moz-user-select: none;     
+    -ms-user-select: none;       
+    user-select: none;  
+}
+
+.text2 {
+    color: black;
+    -webkit-touch-callout: none; 
+    -webkit-user-select: none;  
+    -khtml-user-select: none;    
+    -moz-user-select: none;     
+    -ms-user-select: none;       
+    user-select: none;  
+}

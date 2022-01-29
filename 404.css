@@ -1,0 +1,42 @@
+.error {
+    position: absolute;
+    width: 311px;
+    height: 84px;
+    left: 580px;
+    top: 182px;
+    font-family: SF UI Display;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 100px;
+    line-height: 172px;
+    color: #000000;
+}
+
+.text1 {
+    position: absolute;
+    width: 392px;
+    height: 49px;
+    left: 591px;
+    top: 320px;
+    font-family: SF UI Display;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 43px;
+    color: #000000;
+}
+
+.text2 {
+    position: absolute;
+    width: 390px;
+    height: 25px;
+    left: 950px;
+    top: 600px;
+    font-family: SF UI Display;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 29px;
+    color: #000000;
+    opacity: 0.3;
+}
